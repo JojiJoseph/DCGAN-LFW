@@ -1,2 +1,4 @@
 lfw-deepfunneled
 *.pt
+figs
+__pycache__

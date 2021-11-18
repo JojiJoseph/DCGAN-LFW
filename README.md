@@ -10,6 +10,14 @@ Please download the Labelled Faces in the Wild (LFW) dataset from https://www.ka
 python3 train.py
 ```
 
+## To Run Demo
+
+First make sure generator and discriminator are saved to the disk. The models will be saved every epoch of training. Then run,
+
+```bash
+streamlit run demo.py
+```
+
 ## Sample Output
 
 ![img](./output.png)
