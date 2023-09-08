@@ -21,3 +21,16 @@ streamlit run demo.py
 ## Sample Output
 
 ![img](./output.png)
+
+## Citation
+
+```
+@software{Joji_DCGAN_implementation_on_2021,
+author = {Joji},
+month = nov,
+title = {{DCGAN implementation on LFW}},
+url = {https://github.com/JojiJoseph/DCGAN-LFW},
+year = {2021}
+}
+
+```
