@@ -4,7 +4,5 @@ authors:
 - family-names: ""
   given-names: "Joji"
 title: "DCGAN implementation on LFW"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
 date-released: 2021-11-18
 url: "https://github.com/JojiJoseph/DCGAN-LFW"
